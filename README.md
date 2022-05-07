@@ -10,5 +10,5 @@ Gồm những tính năng (features): <br>
 **Ngôn ngữ (Language):**<br>
 * Javascript<br>
 
-**Result**<br>
+**Result:**<br>
 https://applied-computer-graphics.glitch.me
