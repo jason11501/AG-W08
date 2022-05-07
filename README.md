@@ -1,3 +1,4 @@
+# Đồ họa ứng dụng - Application graphic
 # Edge detection với video bằng Javascript và HTML5
 Gồm những tính năng (features): <br>
 
