@@ -1,4 +1,4 @@
-# Phát hiện biên cạnh video (video edge detection) với Javascript và HTML5
+# Edge detection in video với Javascript và HTML5
 Gồm những tính năng (features): <br>
 
 * Phát hiện biên cạnh video (edge detection)
