@@ -5,8 +5,7 @@ Gồm những tính năng (features): <br>
 
 ## Install environments
 **Công cụ (Tool):**<br>
-* Glitch: https://glitch.com
-* or Google Chrome <br>
+* Glitch: https://glitch.com on CocCoc or Google Chrome browser, not Safari
 
 **Ngôn ngữ (Language):**<br>
 * Javascript<br>
