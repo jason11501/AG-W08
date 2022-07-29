@@ -1,4 +1,4 @@
-# Đồ họa ứng dụng - Application graphic
+# Đồ họa ứng dụng - Application graphic - Week 08
 # Edge detection với video bằng Javascript và HTML5
 Gồm những tính năng (features): <br>
 
