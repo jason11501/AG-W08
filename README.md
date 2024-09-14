@@ -1,5 +1,5 @@
 # Đồ họa ứng dụng - Application graphic - Week 08
-# Edge detection với video bằng Javascript và HTML5
+# Video Edge detection (làm tiền đề cho segmentation -> Phân lớp)
 Gồm những tính năng (features): <br>
 
 * Phát hiện biên cạnh video (edge detection)
