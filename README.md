@@ -11,6 +11,6 @@ Gồm những tính năng (features): <br>
 **Ngôn ngữ (Language):**<br>
 * Javascript<br>
 
-## Result
+## Demo
 
 https://applied-computer-graphics.glitch.me
